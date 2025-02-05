@@ -11,7 +11,6 @@ Olá meu nome é Ryan, tenho 21 anos e gostaria de uma chance para mostrar do qu
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryanzadin&repo=Teste_Automatizado_com_Cy-PageObjects.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanzadin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
