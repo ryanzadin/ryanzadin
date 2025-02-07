@@ -1,4 +1,4 @@
-## Olá 👋
+## Olá Pessoas 👋
 
 ###### Sobre mim
 Olá meu nome é Ryan, tenho 21 anos e gostaria de uma chance para mostrar do que sou capaz como QE/QA, não possuo experiência ainda pois me especializei pela EBAC como Engenheiro de qualidade de software recentemente, possuo uma aprendizagem contínua e me empenho no que eu faço para sair tudo do jeito que me é pedido sem contar que aprendo rápido e sou bastante autodidata,mas vamos falar um pouco sobre o curso agora, é um curso técnico profissionalizante bem completo sobre a área, lá eu aprendi as métricas de qualidade, como um QA deve pensar e trabalhar, metodologias ágeis, diversas ferramentas de testes tanto Web quanto Mobile para a automação dos mesmos ganhando pró atividade e rápida entrega do produto com o time além de garantir a qualidade, aprendi também como relatar bugs usando Jira e Azure DevOps, mais detalhes de conhecimento no meu currículo ou perfil do LinkedIn. Obrigado por ler. 
